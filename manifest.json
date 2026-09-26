@@ -1,7 +1,7 @@
 {
-  "name": "GitHub",
-  "short_name": "GitHub",
-  "start_url": "/",
+  "name": "Chichapp",
+  "short_name": "Chichapp",
+  "start_url": "https://github.com/gerardogregorio81-stack/APP_chicha/index.html",
   "display": "standalone",
   "icons": [
     {
